@@ -1,59 +1,59 @@
 # PortfolioEngine
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.0.2.
+A minimal portfolio engine built with Angular.
 
-## Development server
+## 🧠 About
 
-To start a local development server, run:
+PortfolioEngine is a simple and clean portfolio application built to represent my work and projects.  
+The goal of this project is to create a fast, minimal, and well-structured web presence.
+
+## 🛠️ Tech Stack
+
+- Angular
+- TypeScript
+- CSS (planned improvements over time)
+
+## 🚀 Development
+
+To start a local development server:
 
 ```bash
 ng serve
 ```
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+Open your browser and navigate to:
 
-## Code scaffolding
+http://localhost:4200/
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+The application will automatically reload when you make changes.
 
-```bash
-ng generate component component-name
-```
+## 🏗️ Building
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
-
-```bash
-ng generate --help
-```
-
-## Building
-
-To build the project run:
+To build the project:
 
 ```bash
 ng build
 ```
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
+The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+## 🧪 Testing
 
-To execute unit tests with the [Vitest](https://vitest.dev/) test runner, use the following command:
+Run unit tests:
 
 ```bash
 ng test
 ```
 
-## Running end-to-end tests
+## 🔮 Future Improvements
 
-For end-to-end (e2e) testing, run:
+- UI enhancements
+- Better styling (possibly Tailwind)
+- Performance optimizations
 
-```bash
-ng e2e
-```
+## 📦 Angular CLI
 
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
+This project was generated using Angular CLI.
 
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+For more information:
+https://angular.dev/tools/cli
